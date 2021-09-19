@@ -1,3 +1,3 @@
 # PayBuddy
 
-A simple banking app to transfer money to an intended person built using android studio.
+A money transfer app to send/recieve money to/from an intended person built using android studio.
